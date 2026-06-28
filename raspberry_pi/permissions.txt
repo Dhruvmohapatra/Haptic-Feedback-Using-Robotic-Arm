@@ -1,0 +1,3 @@
+sudo usermod -aG bluetooth pi
+sudo usermod -aG dialout pi
+sudo reboot

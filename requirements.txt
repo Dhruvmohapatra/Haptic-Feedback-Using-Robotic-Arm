@@ -1,0 +1,7 @@
+pybluez
+RPi.GPIO
+adafruit-circuitpython-servokit
+adafruit-blinka
+board
+busio
+numpy
